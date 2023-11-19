@@ -1,44 +1,43 @@
 player,jn,position,team
-Meeri Raisanen,18,Goalie,home
-Jenni Hiirikoski,6,Defense,home
-Ronja Savolainen,88,Defense,home
-Minnamari Tuominen,15,Defense,home
-Ella Viitasuo,8,Defense,home
+Jenni Hiirikoski,6,Left Defense,home
+Ronja Savolainen,88,Right Defense,home
+Minnamari Tuominen,15,Right Defense,home
+Ella Viitasuo,8,Left Defense,home
 Sanni Hakala,23,Left Wing,home
 Michelle Karvinen,33,Left Wing,home
-Petra Nieminen,16,Center,home
+Petra Nieminen,16,Right Wing,home
 Tanja Niskanen,61,Center,home
 Susanna Tapani,77,Center,home
 Noora Tulus,40,Right Wing,home
 Elisa Holopainen,10,Left Wing,home
-Nelli Laitinen,9,Defense,home
+Nelli Laitinen,9,Left Defense,home
 Viivi Vainikka,24,Center,home
 Anni Keisala,36,Goalie,home
-Sanni Vanhanen,12,Center,home
-Sini Karjalainen,2,Defense,home
+Sanni Vanhanen,12,Right Wing,home
+Sini Karjalainen,2,Left Defense,home
 Emilia Vesa,32,Right Wing,home
 Jenniina Nylund,28,Center,home
-Sofianna Sundelin,34,Left Wing,home
-Julia Liikala,27,Right Wing,home
-Sanni Rantala,7,Defense,home
-Hilary Knight,21,Center,away
-Lee Stecklein,2,Defense,away
-Cayla Barnes,3,Defense,away
-Megan Keller,5,Defense,away
+Sofianna Sundelin,34,Right Wing,home
+Julia Liikala,27,Left Wing,home
+Sanni Rantala,7,Right Defense,home
+Hilary Knight,21,Right Wing,away
+Lee Stecklein,2,Left Defense,away
+Cayla Barnes,3,Right Defense,away
+Megan Keller,5,Left Defense,away
 Kelly Pannek,12,Center,away
 Hannah Brandt,20,Center,away
-Dani Cameranesi,24,Center,away
-Kendall Coyne Schofield,26,Center,away
-Amanda Kessel,28,Center,away
+Dani Cameranesi,24,Right Wing,away
+Kendall Coyne Schofield,26,Left Wing,away
+Amanda Kessel,28,Right Wing,away
 Alex Cavallini,33,Goalie,away
 Maddie Rooney,35,Goalie,away
 Alex Carpenter,25,Left Wing,away
-Hayley Scamurra,16,Left Wing,away
-Megan Bozek,9,Defense,away
-Savannah Harmon,15,Defense,away
-Jesse Compher,18,Center,away
-Caroline Harvey,4,Defense,away
+Hayley Scamurra,16,Right Wing,away
+Megan Bozek,9,Left Defense,away
+Savannah Harmon,15,Right Defense,away
+Jesse Compher,18,Left Wing,away
+Caroline Harvey,4,Right Defense,away
 Abby Roque,11,Center,away
-Grace Zumwinkle,13,Center,away
-Jincy Dunne,19,Defense,away
+Grace Zumwinkle,13,Left Wing,away
+Jincy Dunne,19,Left Defense,away
 Abbey Murphy,37,Center,away
